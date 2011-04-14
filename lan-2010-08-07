@@ -1,0 +1,27 @@
+### Commented entries have reasonable defaults.
+### Uncomment to edit them.
+Section: misc
+Priority: optional
+# Homepage: <enter URL here; no default>
+Standards-Version: 3.6.2
+
+Package: lan-2010-08-07
+Version: 0.1
+Maintainer: Eric Gerlach <eric+ubuntulanparty@gerlach.ca>
+# Pre-Depends: <comma-separated list of packages>
+Depends: armagetronad, boswars, bzflag-client, glob2, gtetrinet, hedgewars,
+  liquidwar, openarena, pioneers, scorched3d, teeworlds, tremulous,
+  warzone2100, xtris
+
+# Recommends: <comma-separated list of packages>
+# Suggests: <comma-separated list of packages>
+# Provides: <comma-separated list of packages>
+# Replaces: <comma-separated list of packages>
+# Architecture: all
+# Copyright: <copyright file; defaults to GPL2>
+#Changelog: lan-testing-changelog
+# Readme: <README.Debian file; defaults to a generic one>
+# Extra-Files: <comma-separated list of additional files for the doc directory>
+# Files: <pair of space-separated paths; First is file to include, second is destination>
+#  <more pairs, if there's more than one file to include. Notice the starting space>
+Description: The complete set of games for the August 7, 2010 Ubuntu LAN Party
