@@ -1,0 +1,33 @@
+### Commented entries have reasonable defaults.
+### Uncomment to edit them.
+Section: misc
+Priority: optional
+# Homepage: <enter URL here; no default>
+Standards-Version: 3.6.2
+
+Package: lan-testing
+Version: 0.2
+Maintainer: Eric Gerlach <eric+ubuntulanparty@gerlach.ca>
+# Pre-Depends: <comma-separated list of packages>
+Depends: acm, alien-arena, armagetronad, attal, assaultcube, battleball,
+  boswars, btanks, bzflag-client, castle-combat, conquest-gl, crack-attack,
+  crossfire-client, csmash, dopewars, freeciv-client-gtk, freecol, gbatnav,
+  glest, glob2, gnibbles, gplanarity, gtetrinet, gtkatlantic, hedgewars,
+  imaze-xview, jumpnbump, ksirk, liquidwar, mmpong-gl, netmaze, netpanzer,
+  netrek-client-cow, nexuiz, openarena, pioneers, sauerbraten, scorched3d,
+  snowballz, spellcast, spring-engine, spring-mods-kernelpanic, starvoyager,
+  supertuxkart, teeworlds, tremulous, warsow, wesnoth, warzone2100, wormux,
+  xbattle, xconq, xevil, xpilot-ng, xtris
+
+# Recommends: <comma-separated list of packages>
+# Suggests: <comma-separated list of packages>
+# Provides: <comma-separated list of packages>
+# Replaces: <comma-separated list of packages>
+# Architecture: all
+# Copyright: <copyright file; defaults to GPL2>
+Changelog: lan-testing-changelog
+# Readme: <README.Debian file; defaults to a generic one>
+# Extra-Files: <comma-separated list of additional files for the doc directory>
+# Files: <pair of space-separated paths; First is file to include, second is destination>
+#  <more pairs, if there's more than one file to include. Notice the starting space>
+Description: The complete set of games for an Ubuntu LAN Party

@@ -1,0 +1,20 @@
+lan-testing (0.2) lucid; urgency=low
+
+  * Added nexuiz and netpanzer
+  * Removed antigravitaattori - hotseat only
+  * Removed ktron - vs CPU only
+  * Removed luola - hotseat only
+  * Removed kolf - hotseat only
+  * Removed heroes-sdl - hotseat only (and too bad, too, it's a good game)
+  * Removed pengupop - Online multiplayer requires a specific metaserver, which is down.
+  * Removed stax - hotseat only
+  * Removed gltron - only vs CPU
+  * Removed extremetuxracer - Not multiplayer
+
+ -- Eric Gerlach <eric+debemail@gerlach.ca>  Wed, 14 Jul 2010 11:48:36 -0400
+
+lan-testing (0.1) lucid; urgency=low
+
+  * Initial release.
+
+ -- Eric Gerlach <eric+debemail@gerlach.ca>  Wed, 14 Jul 2010 11:45:26 -0400
